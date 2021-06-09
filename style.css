@@ -1,0 +1,18 @@
+.container{
+    width: 50%;
+    margin-left: 50px;
+}
+.card{
+    border: 3px solid gainsboro;
+    margin: 35px;
+    height: 945px;
+}
+.card:hover{
+    border: 3px solid lightgreen;
+}
+
+.biography{
+    display: flex;
+    justify-content: center;
+
+}
